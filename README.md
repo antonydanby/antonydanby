@@ -30,8 +30,6 @@ If you've found any of my projects useful, saved some development time, or simpl
 
 **☕ You can support my work on Ko-fi:**
 
-### [ko-fi.com/antonydanby](https://ko-fi.com/antonydanby)
-
 <a href="https://ko-fi.com/antonydanby">
   <img
     src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png"
@@ -39,6 +37,8 @@ If you've found any of my projects useful, saved some development time, or simpl
     width="200"
   >
 </a>
+
+[ko-fi.com/antonydanby](https://ko-fi.com/antonydanby)
 
 There's absolutely no obligation. Using the projects, reporting issues, suggesting improvements, or simply starring the repositories is appreciated too.
 
