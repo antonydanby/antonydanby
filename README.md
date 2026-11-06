@@ -32,6 +32,8 @@ If you've found any of my projects useful, saved some development time, or simpl
 
 ### [ko-fi.com/antonydanby](https://ko-fi.com/antonydanby)
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'R6R0K53L8');kofiwidget2.draw();</script> 
+
 There's absolutely no obligation. Using the projects, reporting issues, suggesting improvements, or simply starring the repositories is appreciated too.
 
 Thanks for taking a look at my work! 🚀
