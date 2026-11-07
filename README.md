@@ -28,8 +28,6 @@ As I build larger component libraries and developer tools, those costs quickly a
 
 If you've found any of my projects useful, saved some development time, or simply want to help support future Delphi projects, I'd really appreciate a small contribution towards those costs.
 
-**☕ You can support my work on Ko-fi:**
-
 <a href="https://ko-fi.com/antonydanby">
   <img
     src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png"
