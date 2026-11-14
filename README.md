@@ -38,6 +38,8 @@ If you've found any of my projects useful, saved some development time, or simpl
 
 [ko-fi.com/antonydanby](https://ko-fi.com/antonydanby)
 
-There's absolutely no obligation. Using the projects, reporting issues, suggesting improvements, or simply starring the repositories is appreciated too.
+There's no obligation, but donations would be very appreciated. 
+
+Using the projects, reporting issues, suggesting improvements, or simply starring the repositories is appreciated too.
 
 Thanks for taking a look at my work! 🚀
